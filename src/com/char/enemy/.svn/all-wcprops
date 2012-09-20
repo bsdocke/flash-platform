@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/69275/Modea/Active/PhoneTeam/TrainingProjects/bdockery/PlatformGame/src/com/char/enemy
+END
+Enemy.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/68692/Modea/Active/PhoneTeam/TrainingProjects/bdockery/PlatformGame/src/com/char/enemy/Enemy.as
+END
+DynamicSpike.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/68692/Modea/Active/PhoneTeam/TrainingProjects/bdockery/PlatformGame/src/com/char/enemy/DynamicSpike.as
+END
+CrawlingEnemy.as
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/69149/Modea/Active/PhoneTeam/TrainingProjects/bdockery/PlatformGame/src/com/char/enemy/CrawlingEnemy.as
+END
+FlyingEnemy.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/69275/Modea/Active/PhoneTeam/TrainingProjects/bdockery/PlatformGame/src/com/char/enemy/FlyingEnemy.as
+END
+SmartCrawlingEnemy.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/69275/Modea/Active/PhoneTeam/TrainingProjects/bdockery/PlatformGame/src/com/char/enemy/SmartCrawlingEnemy.as
+END
